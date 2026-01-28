@@ -1,12 +1,12 @@
-# 🔓 Excel Sheet Protection Manager (Python)
+# Excel Sheet Protection Manager (Python)
 
-## 📌 Description
+##  Description
 
 A Python automation script that manages protected Excel workbooks by unlocking all sheets and removing VBA project protection at runtime. It enables seamless data processing, editing, and saving without manual password intervention, designed for authorized internal automation workflows only.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Unlocks all protected worksheets in an Excel file
 - Removes VBA project protection programmatically
@@ -16,7 +16,7 @@ A Python automation script that manages protected Excel workbooks by unlocking a
 
 ---
 
-## 🧠 Use Cases
+## Use Cases
 
 - Automating data updates in protected Excel files
 - Handling legacy Excel workbooks with forgotten protections
@@ -25,7 +25,7 @@ A Python automation script that manages protected Excel workbooks by unlocking a
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 - Microsoft Excel (installed on system)
@@ -33,7 +33,7 @@ A Python automation script that manages protected Excel workbooks by unlocking a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 excel-sheet-protection-manager/
@@ -42,7 +42,7 @@ excel-sheet-protection-manager/
 ├── requirements.txt
 └── samples/
     └── protected_file.xlsx
-⚠️ Disclaimer
+Disclaimer
 
 This project is intended only for Excel files you own or are explicitly authorized to modify.
 Unauthorized use on third-party or restricted documents is strongly discouraged.
