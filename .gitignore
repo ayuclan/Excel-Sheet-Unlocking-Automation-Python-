@@ -210,4 +210,16 @@ __marimo__/
 *.xls
 *.xlsx
 *.xlsm
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Old / temp scripts
+mkt.py
+git
 
